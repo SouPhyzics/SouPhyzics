@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Soubhadra Maiti.
-- 👀 I’m interested in Quantum Shannon Theory and Quantum communication.
-- 🌱 I’m currently working on noise in Quantum Algorithms and Quantum Machine Learning.
+- 👀 My research focuses on Quantum Information, Computing, Communication and Quantum Internet.
+- 🌱 I’m currently working on Quantum Networks and Variational Quantum Algorithms.
 - 💞️ I’m looking to collaborate on QI theory research, qiskit and quantum games projects.
 - 📫 Feel free write to me at soubhadra.maiti@students.iiserpune.ac.in
 
